@@ -1168,7 +1168,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #4a00f0;
+  background: #c1ff0e;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -1534,16 +1534,6 @@ pre .javascript .function {
   margin: -20px auto 15px;
   text-align: center;
 }
-.post-body p a {
-  color: #309;
-  border-bottom: none;
-  border-bottom: 1px solid #309;
-}
-.post-body p a:hover {
-  color: #ff8c00;
-  border-bottom: none;
-  border-bottom: 1px solid #ff8c00;
-}
 .post-sticky-flag {
   display: inline-block;
   transform: rotate(30deg);
@@ -1556,14 +1546,6 @@ pre .javascript .function {
 .use-motion .pagination,
 .use-motion .comments {
   opacity: 0;
-}
-.use-motion .post_block {
-  margin-top: 0px;
-  margin-buttom: 20px;
-  padding: 25px;
-  backgroud: rgba(255,255,255,0.9) none repeat scroll !important;
-  -webkit-box-shadow: 0 0 5px rgba(202,203,203,0.5);
-  -moz-box-shadow: 0 0 5px rgba(202,203,204,0.5);
 }
 .use-motion .post-header {
   opacity: 0;
@@ -2165,6 +2147,14 @@ ul.breadcrumb li + li:last-child {
 }
 .tag-cloud a:hover {
   color: var(--link-hover-color) !important;
+}
+.gt-header a,
+.gt-comments a,
+.gt-popup a {
+  border-bottom: none;
+}
+.gt-container .gt-popup .gt-action.is--active::before {
+  top: 0.7em;
 }
 .header {
   margin: 0 auto;
