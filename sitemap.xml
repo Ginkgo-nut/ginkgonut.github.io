@@ -2,27 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://ginkgo-nut.github.io/ginkgonut.github.io/2023/03/15/%E3%80%90%E7%BD%AE%E9%A1%B6%E8%AF%B4%E6%98%8E%E3%80%91%E2%9C%A8%E6%9E%9C%E5%AD%90%E4%B9%9F%E5%88%86%E9%85%B8%E7%94%9C%EF%BC%8C%E5%B0%8A%E9%87%8D%E8%AF%B7%E7%9B%B8%E4%BA%92%E2%9C%A8/</loc>
+    <loc>https://www.ginkgo-nut.com/d92f34aa1b71.html</loc>
     
-    <lastmod>2023-03-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ginkgo-nut.github.io/ginkgonut.github.io/categories/index.html</loc>
-    
-    <lastmod>2023-03-13</lastmod>
+    <lastmod>2023-03-16</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://ginkgo-nut.github.io/ginkgonut.github.io/tags/index.html</loc>
+    <loc>https://www.ginkgo-nut.com/Comments/index.html</loc>
     
-    <lastmod>2023-03-13</lastmod>
+    <lastmod>2023-03-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.ginkgo-nut.com/about/index.html</loc>
+    
+    <lastmod>2023-03-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.ginkgo-nut.com/tags/index.html</loc>
+    
+    <lastmod>2023-03-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.ginkgo-nut.com/categories/index.html</loc>
+    
+    <lastmod>2023-03-16</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -30,23 +48,23 @@
   
 
   <url>
-    <loc>https://ginkgo-nut.github.io/ginkgonut.github.io</loc>
-    <lastmod>2023-03-15</lastmod>
+    <loc>https://www.ginkgo-nut.com/</loc>
+    <lastmod>2023-03-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://ginkgo-nut.github.io/ginkgonut.github.io/tags/%E7%BD%AE%E9%A1%B6/</loc>
-    <lastmod>2023-03-15</lastmod>
+    <loc>https://www.ginkgo-nut.com/tags/%E7%BD%AE%E9%A1%B6/</loc>
+    <lastmod>2023-03-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://ginkgo-nut.github.io/ginkgonut.github.io/tags/%E8%AF%B4%E6%98%8E/</loc>
-    <lastmod>2023-03-15</lastmod>
+    <loc>https://www.ginkgo-nut.com/tags/%E8%AF%B4%E6%98%8E/</loc>
+    <lastmod>2023-03-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -54,8 +72,8 @@
 
   
   <url>
-    <loc>https://ginkgo-nut.github.io/ginkgonut.github.io/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/</loc>
-    <lastmod>2023-03-15</lastmod>
+    <loc>https://www.ginkgo-nut.com/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/</loc>
+    <lastmod>2023-03-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
