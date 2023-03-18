@@ -2,18 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.ginkgo-nut.com/c957e5e683bb.html</loc>
-    
-    <lastmod>2023-03-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.ginkgo-nut.com/Comments/index.html</loc>
     
-    <lastmod>2023-03-17</lastmod>
+    <lastmod>2023-03-18</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -22,7 +13,16 @@
   <url>
     <loc>https://www.ginkgo-nut.com/about/index.html</loc>
     
-    <lastmod>2023-03-16</lastmod>
+    <lastmod>2023-03-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.ginkgo-nut.com/c957e5e683bb.html</loc>
+    
+    <lastmod>2023-03-18</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -56,14 +56,14 @@
 
   
   <url>
-    <loc>https://www.ginkgo-nut.com/tags/%E6%8E%A5%E7%A8%BF/</loc>
+    <loc>https://www.ginkgo-nut.com/tags/test1/</loc>
     <lastmod>2023-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.ginkgo-nut.com/tags/%E8%AF%B4%E6%98%8E/</loc>
+    <loc>https://www.ginkgo-nut.com/tags/test2/</loc>
     <lastmod>2023-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -72,7 +72,7 @@
 
   
   <url>
-    <loc>https://www.ginkgo-nut.com/categories/%E6%8E%A5%E7%A8%BF/</loc>
+    <loc>https://www.ginkgo-nut.com/categories/test/</loc>
     <lastmod>2023-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

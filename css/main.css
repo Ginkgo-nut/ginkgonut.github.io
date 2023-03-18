@@ -1498,6 +1498,8 @@ pre code {
   left: 0;
   top: 0;
 }
+.rtl.post-body p,
+.rtl.post-body a,
 .rtl.post-body h1,
 .rtl.post-body h2,
 .rtl.post-body h3,
@@ -1509,18 +1511,6 @@ pre code {
 .rtl.post-body ol {
   direction: rtl;
   font-family: UKIJ Ekran;
-}
-.rtl.post-body p,
-.rtl.post-body a {
-  color: #309;
-  border-bottom: none;
-  border-bottom: 1px solid #309;
-}
-.rtl.post-body p:hover,
-.rtl.post-body a:hover {
-  color: #ff8c00;
-  border-bottom: none;
-  border-bottom: 1px solid #ff8c00;
 }
 .rtl.post-title {
   font-family: UKIJ Ekran;
@@ -1550,6 +1540,16 @@ pre code {
 }
 .use-motion .collection-header {
   visibility: hidden;
+}
+.post-body a {
+  color: #309;
+  border-bottom: none;
+  border-bottom: 1px solid #309;
+}
+.post-body a:hover {
+  color: #ff8c00;
+  border-bottom: none;
+  border-bottom: 1px solid #ff8c00;
 }
 .posts-collapse .post-content {
   margin-bottom: 35px;
@@ -2640,9 +2640,24 @@ mark.search-keyword {
     padding: 10px 12px;
   }
 }
+code {
+  color: #ff7600;
+  background: #fbf7f8;
+  margin: 2px;
+}
+.highlight,
+pre {
+  margin: 5px 0;
+  padding: 5px;
+}
+.highlight,
+code,
+pre {
+  border: 1px solid #d6d6d6;
+}
 /*添加背景图*/
 body {
-  background: url("images/background.png"); /*自定义的图片*/
+  background: url("/images/background.png"); /*自定义的图片*/
   background-size: 100% 100%; /*拉伸到全屏显示*/
   background-repeat: no-repeat; /*拒绝重复填充*/
   background-attachment: fixed; /*固定图层，不随鼠标滚动而滚动*/
